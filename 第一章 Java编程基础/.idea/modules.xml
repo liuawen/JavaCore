@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/002-环境准备/002-环境准备.iml" filepath="$PROJECT_DIR$/002-环境准备/002-环境准备.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-详解HelloWorld程序/003-详解HelloWorld程序.iml" filepath="$PROJECT_DIR$/003-详解HelloWorld程序/003-详解HelloWorld程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-集成开发环境安装和使用/004-集成开发环境安装和使用.iml" filepath="$PROJECT_DIR$/004-集成开发环境安装和使用/004-集成开发环境安装和使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-从加减乘除到变量/005-从加减乘除到变量.iml" filepath="$PROJECT_DIR$/005-从加减乘除到变量/005-从加减乘除到变量.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章 Java编程基础.iml" filepath="$PROJECT_DIR$/第一章 Java编程基础.iml" />
+    </modules>
+  </component>
+</project>
